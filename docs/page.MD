@@ -1,6 +1,4 @@
-POLÃTICA DE PRIVACIDAD
-
- 
+# Politica de privacidad
 
 El presente PolÃ­tica de Privacidad establece los tÃ©rminos en que OverWikiApps usa y protege la informaciÃ³n que es proporcionada por sus usuarios al momento de utilizar su sitio web. Esta compaÃ±Ã­a estÃ¡ comprometida con la seguridad de los datos de sus usuarios. Cuando le pedimos llenar los campos de informaciÃ³n personal con la cual usted pueda ser identificado, lo hacemos asegurando que sÃ³lo se emplearÃ¡ de acuerdo con los tÃ©rminos de este documento. Sin embargo esta PolÃ­tica de Privacidad puede cambiar con el tiempo o ser actualizada por lo que le recomendamos y enfatizamos revisar continuamente esta pÃ¡gina para asegurarse que estÃ¡ de acuerdo con dichos cambios.
 
